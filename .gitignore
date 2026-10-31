@@ -1,0 +1,11 @@
+# data and large outputs
+*.nc
+*.nc4
+*.dat
+*.ctl
+*.cat
+*.kmz
+*.mp4
+*.gif
+.ipynb_checkpoints/
+__pycache__/
